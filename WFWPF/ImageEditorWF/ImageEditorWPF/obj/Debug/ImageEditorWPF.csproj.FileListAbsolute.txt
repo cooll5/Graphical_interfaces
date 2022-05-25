@@ -1,0 +1,108 @@
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.exe.config
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.exe
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.pdb
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\bin\Debug\EditorTools.dll
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\bin\Debug\EditorTools.pdb
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.AssemblyReference.cache
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\obj\Debug\App.g.cs
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF_MarkupCompile.cache
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF_MarkupCompile.lref
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\obj\Debug\MainWindow.baml
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.g.resources
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.Properties.Resources.resources
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.GenerateResource.cache
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.CopyComplete
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.exe
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.pdb
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.exe.config
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.exe
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.pdb
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\bin\Debug\EditorTools.dll
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\bin\Debug\EditorTools.pdb
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.AssemblyReference.cache
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\obj\Debug\App.g.cs
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF_MarkupCompile.cache
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF_MarkupCompile.lref
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\obj\Debug\MainWindow.baml
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.g.resources
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.Properties.Resources.resources
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.GenerateResource.cache
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.CopyComplete
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.exe
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.pdb
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.exe.config
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.exe
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.pdb
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\bin\Debug\EditorTools.dll
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\bin\Debug\EditorTools.pdb
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.AssemblyReference.cache
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\App.g.cs
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF_MarkupCompile.cache
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF_MarkupCompile.lref
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\MainWindow.baml
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.g.resources
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.Properties.Resources.resources
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.GenerateResource.cache
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.CopyComplete
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.exe
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.pdb
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.exe.config
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.exe
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.pdb
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\bin\Debug\EditorTools.dll
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\bin\Debug\EditorTools.pdb
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.AssemblyReference.cache
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\MainWindow.g.cs
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\App.g.cs
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF_MarkupCompile.cache
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF_MarkupCompile.lref
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\MainWindow.baml
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.g.resources
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.Properties.Resources.resources
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.GenerateResource.cache
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.CoreCompileInputs.cache
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.CopyComplete
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.exe
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.pdb
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.exe.config
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.exe
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.pdb
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\bin\Debug\EditorTools.dll
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\bin\Debug\EditorTools.pdb
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.AssemblyReference.cache
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\MainWindow.g.cs
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\App.g.cs
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF_MarkupCompile.cache
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF_MarkupCompile.lref
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\MainWindow.baml
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.g.resources
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.Properties.Resources.resources
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.GenerateResource.cache
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.CoreCompileInputs.cache
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.CopyComplete
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.exe
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.pdb
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.exe.config
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.exe
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\bin\Debug\ImageEditorWPF.pdb
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\bin\Debug\EditorTools.dll
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\bin\Debug\EditorTools.pdb
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.AssemblyReference.cache
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\MainWindow.g.cs
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\App.g.cs
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF_MarkupCompile.cache
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF_MarkupCompile.lref
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\MainWindow.baml
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.g.resources
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.Properties.Resources.resources
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.GenerateResource.cache
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.CoreCompileInputs.cache
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.csproj.CopyComplete
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.exe
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWPF\obj\Debug\ImageEditorWPF.pdb

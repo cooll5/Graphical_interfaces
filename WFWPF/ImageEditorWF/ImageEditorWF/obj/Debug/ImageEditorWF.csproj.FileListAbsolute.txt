@@ -1,0 +1,72 @@
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWF\bin\Debug\ImageEditorWF.exe.config
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWF\bin\Debug\ImageEditorWF.exe
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWF\bin\Debug\ImageEditorWF.pdb
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWF\bin\Debug\EditorTools.dll
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWF\bin\Debug\EditorTools.pdb
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.AssemblyReference.cache
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.MainForm.resources
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.Properties.Resources.resources
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.GenerateResource.cache
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.CopyComplete
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.exe
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.pdb
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWF\bin\Debug\ImageEditorWF.exe.config
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWF\bin\Debug\ImageEditorWF.exe
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWF\bin\Debug\ImageEditorWF.pdb
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWF\bin\Debug\EditorTools.dll
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWF\bin\Debug\EditorTools.pdb
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.AssemblyReference.cache
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.MainForm.resources
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.Properties.Resources.resources
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.GenerateResource.cache
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.CopyComplete
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.exe
+C:\Users\Vitalii\Desktop\курсова\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.pdb
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.AssemblyReference.cache
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.MainForm.resources
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.Properties.Resources.resources
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.GenerateResource.cache
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.exe
+C:\Users\Vitalii\Desktop\study\Graphics interface\project\курсова1\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.pdb
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.AssemblyReference.cache
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.MainForm.resources
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.Properties.Resources.resources
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.GenerateResource.cache
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.CoreCompileInputs.cache
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.exe
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.pdb
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWF\bin\Debug\ImageEditorWF.exe.config
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWF\bin\Debug\ImageEditorWF.exe
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWF\bin\Debug\ImageEditorWF.pdb
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWF\bin\Debug\EditorTools.dll
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWF\bin\Debug\EditorTools.pdb
+C:\Users\unman\Desktop\курсова1\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.CopyComplete
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWF\bin\Debug\ImageEditorWF.exe.config
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWF\bin\Debug\ImageEditorWF.exe
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWF\bin\Debug\ImageEditorWF.pdb
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWF\bin\Debug\EditorTools.dll
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWF\bin\Debug\EditorTools.pdb
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.AssemblyReference.cache
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.MainForm.resources
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.Properties.Resources.resources
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.GenerateResource.cache
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.CoreCompileInputs.cache
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.CopyComplete
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.exe
+C:\Users\unman\Desktop\WFWPF\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.pdb
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.AssemblyReference.cache
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.MainForm.resources
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.Properties.Resources.resources
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.GenerateResource.cache
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.CoreCompileInputs.cache
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.exe
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.pdb
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWF\bin\Debug\ImageEditorWF.exe.config
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWF\bin\Debug\ImageEditorWF.exe
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWF\bin\Debug\ImageEditorWF.pdb
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWF\bin\Debug\EditorTools.dll
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWF\bin\Debug\EditorTools.pdb
+D:\currentdisk\University\Програмування Графічних Інтерфейсів\WFWPF\ImageEditorWF\ImageEditorWF\obj\Debug\ImageEditorWF.csproj.CopyComplete

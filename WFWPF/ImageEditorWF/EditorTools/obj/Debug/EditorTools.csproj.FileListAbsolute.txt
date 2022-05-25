@@ -1,0 +1,6 @@
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\EditorTools\bin\Debug\EditorTools.dll
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\EditorTools\bin\Debug\EditorTools.pdb
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\EditorTools\obj\Debug\EditorTools.csproj.AssemblyReference.cache
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\EditorTools\obj\Debug\EditorTools.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\EditorTools\obj\Debug\EditorTools.dll
+C:\Users\Vitalii\Desktop\Image-editor-Csharp-WF-WPF-master\ImageEditorWF\EditorTools\obj\Debug\EditorTools.pdb
